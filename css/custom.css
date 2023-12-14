@@ -101,6 +101,14 @@ section#contact {
   .info-box {
     margin: 10px;
   }
+  .img-rounded {
+    margin: 0 auto;
+    display: block;
+  }
+  .col-sm-4, .col-sm-8 {
+    text-align: center;
+    margin-top: 10px;
+  }
 }
 
 /* VIDEO */
